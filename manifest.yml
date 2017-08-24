@@ -1,0 +1,7 @@
+---
+applications:
+ - name: bitten
+   random-route: true
+   path: target/bitten.war
+   memory: 256M
+   instances: 1
